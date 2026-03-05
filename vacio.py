@@ -16,3 +16,4 @@ print("Nombre: Carlos Macías Ruiz | Carrera: Ing. Automotriz | Hobby: Jugar vid
 "Nombre: Santiago Valle Garnica | Carrera: Ing. Automotriz | Hobby:Hacer deporte"
 >>>>>>> 897a79689bddb8987694de6af49229ac1ffa060c
 >>>>>>> 1a5c7d3869b1ba2fe4a3e0102ff1dda3ad51d4e5
+"Nombre: Cesar | Carrera: Ing. Automotriz | Hobby: musica")
