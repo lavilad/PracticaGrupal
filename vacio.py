@@ -24,4 +24,10 @@ print("Nombre: Luis Diego Aparicio Castro | Carrera: Ing. Automotriz | Hobby: Do
 >>>>>>> 1a5c7d3869b1ba2fe4a3e0102ff1dda3ad51d4e5
 "Nombre: Cesar | Carrera: Ing. Automotriz | Hobby: musica")
 >>>>>>> a5c8dd7cac5fe2192084cc60fc7899a500e0a9b1
+<<<<<<< HEAD
 "Nombre: Tu joan | Carrera: Ing. Automotriz | Hobby: videojuegos")
+=======
+
+("Nombre: Cristian Ivan Fragoso Zamudio | Carrera: Ing. Automotriz | Hobby: hacer deporte")
+
+>>>>>>> d792b947b4f92d5658a5c6e03ba1bc7b21f790e1
