@@ -70,3 +70,5 @@ print("Nombre: Roberto Montaño Limón | Carrera: Ing. Automotriz | Hobby: video
 
 
 #Pedro Gonzalez
+"Nombre: gonzalo | Carrera: Ing. Automotriz | Hobby: dibujar
+"
